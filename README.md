@@ -1,3 +1,17 @@
+# Synopsis
+
+All words and their associated definitions and etymologies were parsed from Webster's Unabridged Dictionary, the data source file is in plain text. [Webster's Unabridged Dictionary] (http://www.gutenberg.org/ebooks/29765)
+
+A Python script was used to generate the XML and JSON files found in this repository.
+
+# Usage
+
+You can simply download the XML or JSON file for your dictionary defining needs. Or if you're curious, feel free to clone and run the Python script.
+
+`python main.py`
+
+# License
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Amanda Henri
